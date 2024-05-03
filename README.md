@@ -1,16 +1,18 @@
-### Hi there 👋
+### Boa tarde! ☕
 
-<!--
-**Manoel008/Manoel008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Manoel José de Souza
+- 17 anos
+- Jovem empreendedor 🤑
+  
+![](https://media.tenor.com/-1phYTnql_kAAAAM/xrd-exrd.gif)
 
-Here are some ideas to get you started:
+ 
+- Futuro Químico 🥼 
+- Trabalho com próteses dentárias 🦷
+- Gosto de matemática ❗
+- Estudo inglês já faz 3 anos 
+- Estou me familiarizando com a linguagem em JavaScript através da [Alura](https://alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## E-mail profissional 📧:
+
+josedesouzamanoel18@gmail.com
